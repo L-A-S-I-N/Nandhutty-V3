@@ -43,14 +43,14 @@
 </p>
 
 
-## Developers
+## Developer
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![LASIN SER](https://i.imgur.com/9R3TMOm.jpeg)](https://github.com/L-A-S-I-N)[`L-A-S-I-N`](https://github.com/L-A-S-I-N)
 ----|
-   `Base, Bug Fixes, Modules`
+   `Base, Bug Fixes, Modules, Commits`
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+  [![AjmalSudoAnir.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
